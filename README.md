@@ -1,2 +1,0 @@
-# VueTemplate
-Created with CodeSandbox
